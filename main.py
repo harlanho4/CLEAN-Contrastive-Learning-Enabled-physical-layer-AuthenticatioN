@@ -127,14 +127,14 @@ if __name__ == "__main__":
     pl.seed_everything(41)
 
     com6_ds, com6_labels = preprocess.load_labeled_data(
-        pkl_src="dataset/esp-com-6-pkl",
-        pattern="ds-67",
+        pkl_src="dataset/sniffer-a-pkl",
+        pattern="ds-ab",
         sample_per_device=None,
     )
 
     com7_ds, com7_labels = preprocess.load_labeled_data(
-        pkl_src="dataset/esp-com-7-pkl",
-        pattern="ds-67",
+        pkl_src="dataset/sniffer-b-pkl",
+        pattern="ds-ab",
         sample_per_device=None,
     )
 
