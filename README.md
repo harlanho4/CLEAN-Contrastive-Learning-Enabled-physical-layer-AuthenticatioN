@@ -1,3 +1,3 @@
 # CLEAN-Contrastive-Learning-Enabled-physical-layer-AuthenticatioN
 
-***We will public our code soon.***
+***Interested readers can email haonan_h@163.com to request the dataset.***
